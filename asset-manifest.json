@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/raniaBchk/Shopping-Card-React.git/static/css/main.6ccd65a8.css",
+    "main.js": "/raniaBchk/Shopping-Card-React.git/static/js/main.7b6ce7f0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/raniaBchk/Shopping-Card-React.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/salade.jpg": "/raniaBchk/Shopping-Card-React.git/static/media/salade.78d7f823f671419d8398.jpg",
+    "static/media/chicken.jpg": "/raniaBchk/Shopping-Card-React.git/static/media/chicken.fc56275f8eb0ca33dbb8.jpg",
+    "static/media/pasta.jpg": "/raniaBchk/Shopping-Card-React.git/static/media/pasta.4bf168b60ba312f6726a.jpg",
+    "static/media/coffee2.jpg": "/raniaBchk/Shopping-Card-React.git/static/media/coffee2.9a6b4b1fbc3f214d03fc.jpg",
+    "index.html": "/raniaBchk/Shopping-Card-React.git/index.html",
+    "main.6ccd65a8.css.map": "/raniaBchk/Shopping-Card-React.git/static/css/main.6ccd65a8.css.map",
+    "main.7b6ce7f0.js.map": "/raniaBchk/Shopping-Card-React.git/static/js/main.7b6ce7f0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/raniaBchk/Shopping-Card-React.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.7b6ce7f0.js"
+  ]
+}
