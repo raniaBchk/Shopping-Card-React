@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shopping-Card-React/static/css/main.6ccd65a8.css",
-    "main.js": "/Shopping-Card-React/static/js/main.9a72f199.js",
+    "main.js": "/Shopping-Card-React/static/js/main.94fe1804.js",
     "static/js/787.28cb0dcd.chunk.js": "/Shopping-Card-React/static/js/787.28cb0dcd.chunk.js",
     "static/media/salade.jpg": "/Shopping-Card-React/static/media/salade.78d7f823f671419d8398.jpg",
     "static/media/chicken.jpg": "/Shopping-Card-React/static/media/chicken.fc56275f8eb0ca33dbb8.jpg",
@@ -9,11 +9,11 @@
     "static/media/coffee2.jpg": "/Shopping-Card-React/static/media/coffee2.9a6b4b1fbc3f214d03fc.jpg",
     "index.html": "/Shopping-Card-React/index.html",
     "main.6ccd65a8.css.map": "/Shopping-Card-React/static/css/main.6ccd65a8.css.map",
-    "main.9a72f199.js.map": "/Shopping-Card-React/static/js/main.9a72f199.js.map",
+    "main.94fe1804.js.map": "/Shopping-Card-React/static/js/main.94fe1804.js.map",
     "787.28cb0dcd.chunk.js.map": "/Shopping-Card-React/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ccd65a8.css",
-    "static/js/main.9a72f199.js"
+    "static/js/main.94fe1804.js"
   ]
 }
