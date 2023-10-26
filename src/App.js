@@ -15,7 +15,7 @@ function App() {
    <Container>
    
  
-    <BrowserRouter>
+    <BrowserRouter basename='/Shopping-Card-React'>
     <Navbar/>
    
     <Routes>
